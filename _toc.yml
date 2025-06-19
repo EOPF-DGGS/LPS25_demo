@@ -1,0 +1,15 @@
+format: jb-book
+root: intro
+
+chapters:
+  - file: dggs_intro
+    title: Introduction to DGGS
+
+  - file: dggs_eo_application
+    title: Application to EO Data
+
+  - file: dggs_visualization
+    title: Visualization and Analytics
+
+  - file: dggs_future
+    title: Future Potential & Discussion
