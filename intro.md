@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="images/header-bg3.webp" alt="LPS25 Banner" width="80%">
+</p>
+
+<p align="center">
+  <img src="images/grid4earth_logo.png" alt="Grid4Earth Logo" width="220px">
+</p>
 # Introduction
 
 Welcome to the demonstration companion Jupyter Book for:

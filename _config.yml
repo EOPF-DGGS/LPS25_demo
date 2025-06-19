@@ -1,6 +1,6 @@
 title: "DGGS: Scalable Geospatial Data Processing for EO"
 author: Living Planet Symposium 2025 Demo Team
-logo: null
+logo: images/grid4earth_logo.png
 language: en
 only_build_toc_files: true
 
@@ -8,6 +8,7 @@ html:
   use_repository_button: true
   use_issues_button: true
   use_download_button: true
+  logo: images/grid4earth_logo.png
 
 repository:
   url: https://github.com/YOUR_USERNAME/YOUR_REPO_NAME
