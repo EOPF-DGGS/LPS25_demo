@@ -1,46 +1,59 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EOPF-DGGS/LPS25_demo/refs/heads/main/images/grid4earth_logo.png" alt="Grid4Earth Logo" width="220px">
+  <img src="https://raw.githubusercontent.com/EOPF-DGGS/LPS25_demo/main/images/grid4earth_logo.png" alt="Grid4Earth Logo" width="220px">
 </p>
 
 # Introduction
 
-Welcome to the demonstration companion Jupyter Book for:
+Welcome to the companion Jupyter Book for:
 
-**Living Planet Symposium 2025**  
-**C.01.25 DEMO — DGGS: Scalable Geospatial Data Processing for Earth Observation**
-
----
-
-## Objective
-
-This demonstration introduces the DGGS (Discrete Global Grid System) framework, designed to enable efficient, scalable processing and analysis of large Earth Observation (EO) datasets.
-
-DGGS leverages hierarchical grid structures and modern data formats like Zarr to improve data accessibility, processing speed, and analytical capabilities.
+**🌍 Living Planet Symposium 2025**  
+**📌 Session C.01.25 DEMO — DGGS: Scalable Geospatial Data Processing for Earth Observation**
 
 ---
 
-## What You'll Find in This Demo
+## 🎯 Objective
 
-- **Introduction to DGGS:**  
-  Get a brief overview of the DGGS framework and how its hierarchical grid system can efficiently handle large-scale geospatial data.
+This demonstration introduces the **Discrete Global Grid System (DGGS)** framework — a powerful approach to efficiently process and analyze large-scale Earth Observation (EO) datasets.
 
-- **Application to EO Data:**  
-  See how DGGS can transform and process EO datasets, enabling improved storage, access, and exploration.
+DGGS enables seamless multi-resolution analysis by leveraging hierarchical grid structures. Combined with modern data formats like **Zarr**, it significantly improves data accessibility, storage efficiency, and analytical scalability.
 
-- **Visualization and Analytics:**  
-  Learn about basic visualization and analytical tools available within the DGGS framework, supporting EO data analysis and discovery.
-
-- **Future Potential:**  
-  Explore the possible future applications of DGGS, especially for climate monitoring and large-scale environmental data workflows.
+You'll also discover how to interact with DGGS/Zarr data using our open-source Python tool: **`xdggs`**.
 
 ---
 
-**Target Audience:**  
-This demo is for Earth Observation scientists, geospatial analysts, and anyone interested in scalable solutions for environmental data processing.
+## 📚 What You'll Find in This Demo
 
-**Format:**  
-The demo will guide you step-by-step through DGGS features, with explanations and hands-on code cells. A Q&A session will follow for further discussion.
+- **🔹 Introduction to DGGS**  
+  A conceptual overview of DGGS and its benefits for scalable geospatial workflows.
+
+- **🔹 EO Data Transformation**  
+  A practical example showing how to convert Sentinel-2 Level 2A data into the **HEALPix** DGGS structure and store it in **Zarr** format.
+
+- **🔹 Interactive Exploration with `xdggs`**  
+  Learn how to explore, analyze, and visualize DGGS-structured EO data using the Python package `xdggs`.
 
 ---
 
-Let’s get started with the workflow!
+## 👥 Target Audience
+
+This demonstration is aimed at:
+
+- Earth Observation scientists  
+- Geospatial data engineers and analysts  
+- Researchers seeking scalable, hierarchical solutions for large EO datasets
+
+---
+
+## 🧭 Format
+
+You’ll be guided through the key features of DGGS using:
+
+- Clear markdown explanations  
+- Step-by-step Python code examples  
+- Live visualizations  
+
+A short **Q&A session** will follow to discuss use cases, tools, and future development.
+
+---
+
+🚀 **Let’s get started with the workflow!**
