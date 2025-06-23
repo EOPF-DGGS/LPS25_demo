@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EOPF-DGGS/LPS25_demo/main/images/grid4earth_logo.png" alt="Grid4Earth Logo" width="220px">
+  <img src="https://raw.githubusercontent.com/EOPF-DGGS/LPS25_demo/main/images/QR-code.png" alt="QR code for demo Logo" width="220px">
 </p>
 
 # Introduction
-
-Welcome to the companion Jupyter Book for:
 
 **🌍 Living Planet Symposium 2025**  
 **📌 Session C.01.25 DEMO — DGGS: Scalable Geospatial Data Processing for Earth Observation**
