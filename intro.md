@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EOPF-DGGS/LPS25_demo/main/images/GRID4Earth.png" alt="Grid4Earth Logo" width="220px">
+  <img src="https://raw.githubusercontent.com/EOPF-DGGS/LPS25_demo/main/images/QR-code.png" alt="QR code for demo Logo" width="220px">
 </p>
 
 # Introduction
