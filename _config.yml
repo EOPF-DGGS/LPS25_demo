@@ -3,6 +3,8 @@ author: Living Planet Symposium 2025 Demo Team
 logo: images/grid4earth_logo.png
 language: en
 only_build_toc_files: true
+execute:
+  execute_notebooks: false
 
 html:
   use_repository_button: true
