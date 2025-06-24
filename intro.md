@@ -24,11 +24,12 @@ You'll also discover how to interact with DGGS/Zarr data using our open-source P
 - **🔹 Introduction to DGGS**  
   A conceptual overview of DGGS and its benefits for scalable geospatial workflows.
 
-- **🔹 EO Data Transformation**  
-  A practical example showing how to convert Sentinel-2 Level 2A data into the **HEALPix** DGGS structure and store it in **Zarr** format.
-
 - **🔹 Interactive Exploration with `xdggs`**  
-  Learn how to explore, analyze, and visualize DGGS-structured EO data using the Python package `xdggs`.
+  Learn how to explore, analyze, and visualize HEALPix data using the Python package `xdggs`.
+
+- **🔹 EO Data Example**  
+  A practical example showing how to exploire Sentinel-2 Level 2A data in HEALPix.  
+  
 
 ---
 
