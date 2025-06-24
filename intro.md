@@ -41,6 +41,7 @@ This demonstration is aimed at:
 - Geospatial data engineers and analysts  
 - Researchers seeking scalable, hierarchical solutions for large EO datasets
 
+
 ---
 
 ## 🧭 Format
@@ -52,6 +53,16 @@ You’ll be guided through the key features of DGGS using:
 - Live visualizations  
 
 A short **Q&A session** will follow to discuss use cases, tools, and future development.
+
+
+If you want to tryout, you can create jupyter lab enviroment using following command
+
+```
+git clone https://github.com/EOPF-DGGS/LPS25_demo.git
+micromamba env create -n xdggs_demo environment.yml
+micromamba activate xdggs_demo
+jupyter lab
+```
 
 ---
 
